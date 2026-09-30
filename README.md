@@ -39,7 +39,8 @@ Zillow Data: https://www.zillow.com/research/data/
 ## Google Colab Notebook link
 <table align="left">
   <td>
-    <a href="https://colab.research.google.com/github/nblalock14/Capstone_1_Nick_Blalock.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+    <a href="https://github.com/nblalock14/Capstone1_DataScience/blob/main/Capstone_1_Nick_Blalock.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
   </td>
    <td>
   </table>
